@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd16ba6b-a748-40d0-a647-fde2194cc591" name="Default Changelist" comment="" />
+    <list default="true" id="dd16ba6b-a748-40d0-a647-fde2194cc591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,17 +24,26 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/composites.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="51539" selection-start-column="51539" selection-end-column="51539" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,21 +54,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/primes.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="999" column="70" selection-start-line="999" selection-start-column="64" selection-end-line="999" selection-end-column="70" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+            <state relative-caret-position="413">
+              <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+            <state relative-caret-position="-307">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,15 +101,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>10</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/primes.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/composites.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java" />
       </list>
     </option>
   </component>
@@ -103,9 +133,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="345" />
-    <option name="width" value="1606" />
-    <option name="height" value="879" />
+    <option name="x" value="159" />
+    <option name="y" value="4" />
+    <option name="width" value="1600" />
+    <option name="height" value="882" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -182,6 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -199,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AlgorithmsTest">
+  <component name="RunManager" selected="JUnit.AlgorithmsTest.isPrimeFermatTestPrimes">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.marcel.iwanicki.Main" />
       <module name="primenumbers" />
@@ -228,9 +260,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="primenumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marcel.iwanicki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marcel.iwanicki" />
+      <option name="MAIN_CLASS_NAME" value="com.marcel.iwanicki.AlgorithmsTest" />
+      <option name="METHOD_NAME" value="isPrimeFermatTestPrimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmsTest.isPrimeWilsonTestPrimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="primenumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marcel.iwanicki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marcel.iwanicki" />
+      <option name="MAIN_CLASS_NAME" value="com.marcel.iwanicki.AlgorithmsTest" />
+      <option name="METHOD_NAME" value="isPrimeWilsonTestPrimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmsTest.isPrimitiveFirstTestComposites" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="primenumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.marcel.iwanicki.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.marcel.iwanicki" />
+      <option name="MAIN_CLASS_NAME" value="com.marcel.iwanicki.AlgorithmsTest" />
+      <option name="METHOD_NAME" value="isPrimitiveFirstTestComposites" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AlgorithmsTest.isPrimeFermatTestPrimes" />
+        <item itemvalue="JUnit.AlgorithmsTest.isPrimeWilsonTestPrimes" />
         <item itemvalue="JUnit.AlgorithmsTest" />
+        <item itemvalue="JUnit.AlgorithmsTest.isPrimitiveFirstTestComposites" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -251,48 +334,50 @@
       <workItem from="1557809751924" duration="45000" />
       <workItem from="1558084718229" duration="1311000" />
       <workItem from="1558086959247" duration="2552000" />
+      <workItem from="1558254812932" duration="2470000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 11h 57m 00s.xml">
+    <history-entry file="AlgorithmsTest - 2019.05.19 at 10h 58m 06s.xml">
       <configuration name="AlgorithmsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 08m 40s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeWilsonTestPrimes - 2019.05.19 at 10h 58m 51s.xml">
+      <configuration name="AlgorithmsTest.isPrimeWilsonTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 10m 04s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeWilsonTestPrimes - 2019.05.19 at 10h 59m 03s.xml">
+      <configuration name="AlgorithmsTest.isPrimeWilsonTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 11m 09s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeWilsonTestPrimes - 2019.05.19 at 11h 00m 01s.xml">
+      <configuration name="AlgorithmsTest.isPrimeWilsonTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 16m 36s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeWilsonTestPrimes - 2019.05.19 at 11h 04m 43s.xml">
+      <configuration name="AlgorithmsTest.isPrimeWilsonTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 17m 12s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeFermatTestPrimes - 2019.05.19 at 11h 04m 52s.xml">
+      <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 17m 42s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeFermatTestPrimes - 2019.05.19 at 11h 06m 00s.xml">
+      <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 19m 57s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeFermatTestPrimes - 2019.05.19 at 11h 06m 18s.xml">
+      <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 24m 56s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeFermatTestPrimes - 2019.05.19 at 11h 06m 21s.xml">
+      <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AlgorithmsTest - 2019.05.17 at 12h 26m 03s.xml">
-      <configuration name="AlgorithmsTest" configurationId="JUnit" />
+    <history-entry file="AlgorithmsTest_isPrimeFermatTestPrimes - 2019.05.19 at 11h 06m 29s.xml">
+      <configuration name="AlgorithmsTest.isPrimeFermatTestPrimes" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16231000" />
+    <option name="totallyTimeSpent" value="18701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1924" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13713981" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13874066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -301,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27508092" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27321815" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +396,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3279396" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32721382" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -334,50 +419,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="70" column="32" lean-forward="true" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/primes.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="557">
+          <caret line="999" column="70" selection-start-line="999" selection-start-column="64" selection-end-line="999" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/composites.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        <state>
+          <caret column="51539" selection-start-column="51539" selection-end-column="51539" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/marcel/iwanicki/AlgorithmsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-307">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marcel/iwanicki/Algorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
